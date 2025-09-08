@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">-BE CSE'25<br>-I bring dedication and creativity to every endeavor.<br>-Passionate about - IOS Development<br>-Eager to collaborate, innovate, and contribute to meaningful solutions."</p>
+<p align="left">-MSCS'27<br>-I bring dedication and creativity to every endeavor.<br>-Passionate about - IOS Development<br>-Eager to collaborate, innovate, and contribute to meaningful solutions."</p>
 
 ###
 
