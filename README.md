@@ -68,19 +68,6 @@ AI-powered chatbot with Gemini AI integration and SwiftUI interface
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Vatsalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsalya2003&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalya2003&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vatsalya2003&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Highlights
 
