@@ -12,11 +12,11 @@
 
 I'm a **Graduate CS Student** at Northeastern University with a passion for building scalable mobile and distributed systems. Currently working as an **iOS Developer** at Fancall, where I contribute to real-time video calling features and architecting seamless user experiences.
 
-- 🔭 Currently working on distributed systems and iOS applications
-- 🎓 Pursuing MS in Computer Science at Northeastern University (Expected Sep 2027)
-- 💼 iOS Developer with experience in Swift, SwiftUI, UIKit, and cross-platform development
-- 🌱 Learning advanced algorithms and distributed system architectures
-- 📍 Based in Seattle, USA
+- Currently working on distributed systems and iOS applications
+- Pursuing MS in Computer Science at Northeastern University (Expected Sep 2027)
+- iOS Developer with experience in Swift, SwiftUI, UIKit, and cross-platform development
+- Learning advanced algorithms and distributed system architectures
+- Based in Seattle, USA
 
 ---
 
