@@ -1,137 +1,54 @@
-# Hi there, I'm Vatsalya Dabhi 👋
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://vatsalya2003.github.io/portfolio_vatsalya/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsalya-dabhi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vatsalyadabhi05@gmail.com)
-
-</div>
-
-## 🚀 About Me
-
-I'm a **Graduate CS Student** at Northeastern University with a passion for building scalable mobile and distributed systems. Currently working as an **iOS Developer** at Fancall, where I contribute to real-time video calling features and architecting seamless user experiences.
-
-- Currently working on distributed systems and iOS applications
-- Pursuing MS in Computer Science at Northeastern University (Expected Sep 2027)
-- iOS Developer with experience in Swift, SwiftUI, UIKit, and cross-platform development
-- Learning advanced algorithms and distributed system architectures
-- Based in Seattle, USA
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Mobile & Web Development
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Tools & Technologies
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💼 Featured Projects
-
-### 📱 [Distributed Chat System](https://github.com/Vatsalya2003)
-Real-time chat server handling 1,000+ simultaneous connections using **Spring Boot**, **WebSocket**, and **AWS**
-- Integrated AWS SQS for reliable message queuing
-- Load testing with 50,000 simulated users and 500,000 messages
-- **Tech:** Java, Spring Boot, AWS EC2/SQS, Maven
-
-### 🌐 [GTU Laurentian Connect](https://github.com/Vatsalya2003)
-Android app connecting students with alumni and mentors for study abroad guidance
-- Real-time mentor search and task completion features
-- Built with **React Native** and **Firebase**
-- **Tech:** JavaScript, React Navigation, Node.js, Firebase
-
-### 🤖 [GemChat](https://github.com/Vatsalya2003)
-AI-powered chatbot with Gemini AI integration and SwiftUI interface
-- Context-aware NLP interactions
-- Designed with Figma prototypes and iterative testing
-- **Tech:** SwiftUI, Firebase, Gemini AI, Figma
-
----
-
-
-## 🏆 Highlights
-
-- 🎯 **20% app performance optimization** at Fancall with Swift and MVVM architecture
-- 🚀 **30% reduction in development time** using cross-platform Flutter/React Native
-- 🏅 **#1 ranked project** in class showcase at Laurentian University
-- 🌍 **International Experience Program** participant at Laurentian University, Canada
-- 👥 **Technical Head** of Indian Society of Technical Education, mentoring 30+ students
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-- 💼 [LinkedIn](https://linkedin.com/in/vatsalya-dabhi)
-- 🌐 [Portfolio](YOUR_PORTFOLIO_URL_HERE)
-- 📧 [Email](mailto:vatsalyadabhi05@gmail.com)
-- 📱 Phone: +1 (206) 551-4161
+![banner](Banner_Spidey.gif)
 
 ---
 
 <div align="center">
-  
-### ⚡ "Building scalable systems and delightful user experiences, one commit at a time."
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vatsalya2003&color=blueviolet&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/🌐%20Swing%20by%20my%20portfolio-e05c5c?style=for-the-badge&logoColor=white)](https://vatsalya.site)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsalya-dabhi)
+&nbsp;
+[![Dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/vtsly_ofc)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/☕%20Coffee%20Chat-1a6ed4?style=for-the-badge&logoColor=white)](https://linkedin.com/in/vatsalya-dabhi)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayl.stav.0325)
 
 </div>
-<!-- <h1 align="left">"Welcome to my GitHub! -</h1>
 
-###
+---
 
-<p align="left">I am Vatsalya Dabhi. <br> Explore my projects and contributions. Let's collaborate and innovate together!"</p>
+**👨‍💻 Vatsalya Dabhi** · Software Engineer + MS CS Student · Seattle, WA 🌧️
 
-###
+🔨 **Currently building:**
+[Screvyn ](https://github.com/Vatsalya2003/Screvyn) &nbsp;·&nbsp; [Wavlo 🎵](https://github.com/Vatsalya2003/Wavlo)
 
-<h2 align="left">About me</h2>
+---
 
-###
+**Languages**
 
-<p align="left">-MSCS'27<br>-I bring dedication and creativity to every endeavor.<br>-Passionate about - IOS Development<br>-Eager to collaborate, innovate, and contribute to meaningful solutions."</p>
+<img src="https://img.shields.io/badge/Swift-5.9-F54A2A?logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Java-17+-ED8B00?logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white" />
 
-###
+**Mobile**
 
-<h2 align="left">I code with</h2>
+<img src="https://img.shields.io/badge/SwiftUI-iOS17+-F54A2A?logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/UIKit-native-000000?logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-0.73+-20232A?logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Android-SDK34-3DDC84?logo=android&logoColor=white" />
 
-###
+**Backend**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+<img src="https://img.shields.io/badge/Spring_Boot-3.0+-6DB33F?logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-containerized-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-realtime-FFCA28?logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/AWS-EC2-232F3E?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-SQS-FF4F8B?logo=amazonsqs&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-S3-569A31?logo=amazons3&logoColor=white" />
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/LangChain-latest-1C3C3C?logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-multi--agent-1C3C3C?logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-2.5_flash-4285F4?logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-local_LLM-000000?logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-transformers-FFD21E?logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/ChromaDB-vector_db-FF6B35?logoColor=white" />
+
+---
+
+<div align="center">
+
+if you made it this far, you might as well —
+
+**⭐ drop a star &nbsp;·&nbsp; 👤 hit follow &nbsp;·&nbsp; ☕ [grab a coffee chat](https://linkedin.com/in/vatsalya-dabhi)**
+
+*just a dev swinging through the code, one commit at a time 🕷️*
+
 </div>
-
-### -->
