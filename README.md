@@ -21,7 +21,7 @@
 **👨‍💻 Vatsalya Dabhi** · Software Engineer + MS CS Student · Seattle, WA 🌧️
 
 🔨 **Currently building:**
-[Screvyn ](https://github.com/Vatsalya2003/screvyn_multi-agent-code-review-system) &nbsp;·&nbsp; [Wavlo 🎵](https://github.com/Vatsalya2003/Wavlo)
+[Screvyn ](https://github.com/Vatsalya2003/screvyn_multi-agent-code-review-system) &nbsp;·&nbsp; [Wavlo 🎵](https://github.com/Vatsalya2003/wavlo)
 
 ---
 
